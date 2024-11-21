@@ -18,7 +18,7 @@ do {
     } else {
         alert("Introduce un valor numérico.");
     }
-    }else if ( opcion !== "0"){
+    } else if ( opcion1 !== "0"){
         alert("Opción no válida. Por favor, selecciona 1 o 0.");
     }
 
